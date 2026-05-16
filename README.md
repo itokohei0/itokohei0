@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/4-productive-time.svg" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=itokohei0&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
+  <img src="https://github-readme-stats-lovat-kappa-67.vercel.app/api/top-langs/?username=itokohei0&layout=compact&theme=default&hide_border=true" width=50%/>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=itokohei0&theme=flat&no-frame=true&column=6&margin-w=8" />
+
