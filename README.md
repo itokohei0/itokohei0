@@ -11,7 +11,7 @@
 ### Socials
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/_it_)
-[![Note](https://img.shields.io/badge/Note-41C9B4?style=flat&logo=note&logoColor=white)](https://note.com/1tokohe1)
+[![Note](https://img.shields.io/badge/Note-white?style=flat&logo=note&logoColor=black&color=white)](https://note.com/1tokohe1)
 
 ### Stats
 
