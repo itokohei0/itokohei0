@@ -11,20 +11,4 @@
 ### Socials
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/_it_)
-
-### Stats
-
-<img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/0-profile-details.svg" />
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/1-repos-per-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/2-most-commit-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/3-stats.svg" width="32%" />
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itokohei0/itokohei0/master/profile-summary-card-output/default/4-productive-time.svg" width="49%" />
-  <img src="https://github-readme-stats-lovat-kappa-67.vercel.app/api/top-langs/?username=itokohei0&layout=compact&theme=default&hide_border=true" width=50%/>
-</p>
-
-
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_it0_98)
